@@ -8,7 +8,7 @@ People of the center: [@yarikoptic](https://github.com/yarikoptic), [@jwodder](h
 
 Emeritus: [@jgors](https://github.com/jgors), [@glalteva](https://github.com/glalteva), [@oliver-contier](https://github.com/oliver-contier), [@snastase](https://github.com/snastase), [@mvdoc](https://github.com/mvdoc), [@kyleam](https://github.com/kyleam), [@chrispycheng](https://github.com/chrispycheng)
 
-Collaborators and contributors: too many to list here, find some among our Teams at https://github.com/orgs/con/teams .
+Collaborators and contributors: [many wonderful people](https://github.com/orgs/con/people), find some also among our Teams at https://github.com/orgs/con/teams .
 
 If you have any recommendations or suggestions, feel welcome to file an issue among [issues](https://github.com/con/.github/issues) of this organizational repository.
 
