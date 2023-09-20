@@ -14,4 +14,3 @@ If you have any recommendations or suggestions, feel welcome to file an issue am
 
 ## Quick Links
 - :computer: [centerforopenneuroscience.org](http://centerforopenneuroscience.org)
-- :tv: [The @centeropenneuro YouTube (still empty) channel](https://www.youtube.com/@centeropenneuro)
